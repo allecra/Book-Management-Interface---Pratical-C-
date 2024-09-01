@@ -1,0 +1,9 @@
+C:\Users\allec\source\repos\BaiOnTap2\bin\Debug\BaiOnTap2.exe.config
+C:\Users\allec\source\repos\BaiOnTap2\bin\Debug\BaiOnTap2.exe
+C:\Users\allec\source\repos\BaiOnTap2\bin\Debug\BaiOnTap2.pdb
+C:\Users\allec\source\repos\BaiOnTap2\obj\Debug\BaiOnTap2.csproj.AssemblyReference.cache
+C:\Users\allec\source\repos\BaiOnTap2\obj\Debug\BaiOnTap2.csproj.GenerateResource.cache
+C:\Users\allec\source\repos\BaiOnTap2\obj\Debug\BaiOnTap2.csproj.CoreCompileInputs.cache
+C:\Users\allec\source\repos\BaiOnTap2\obj\Debug\BaiOnTap2.exe
+C:\Users\allec\source\repos\BaiOnTap2\obj\Debug\BaiOnTap2.pdb
+C:\Users\allec\source\repos\BaiOnTap2\obj\Debug\BaiOnTap2.FormQLSach.resources
